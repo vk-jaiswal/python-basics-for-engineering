@@ -24,12 +24,12 @@ This repository includes simple Python programs that solves basics engineering s
 3. Open a terminal or command prompt in the project folder.
 4. Run any file using:
 
-   pthon filename.py
+```python
+python filename.py
 
-   Example:
-   python temperature_converter.py
-
-
+Example:
+python temperature_converter.py
+```
 
 
 ## Author
